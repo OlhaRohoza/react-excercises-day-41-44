@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 2em;
+}
+
+
+.result--info {
+  display: flex;
+
+}
+
+.result--info a {
+  padding-right: 1em;
+}
